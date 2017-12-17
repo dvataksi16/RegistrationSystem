@@ -64,7 +64,7 @@ public class Program implements Serializable {
 //		}
 
 		//create Admin 
-		Admin a = new Admin("Admin", "Admin001", "Zack", "Kimelheim");
+		Admin a = new Admin("Admin", "Admin001", "Dwight", "Shrute");
 	
 		
 		System.out.println("\n\t***NYU Course Registration System Software***");
